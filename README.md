@@ -6,3 +6,6 @@ Does not allow the user to define the content of those systems; those are random
 
 There are built versions ready to go for Mac and Windows in the Builds folder.
 Additionally, you can open the project in Unity.
+
+Since the editor was written, some update to Stellaris seems to have made the maps this generates unloadable.
+I'm not sure whether static maps generally are broken, or if some change to the format would fix it.
