@@ -1,0 +1,92 @@
+static_galaxy_scenario = {
+	name = "test_map"
+	priority = 1
+	default = yes
+	num_empires = { min = 0 max = 30 }
+	num_empire_default = 15
+	advanced_empires = { min = 0 max = 30 }
+	advanced_empire_default = 4
+	fallen_empires = { min = 0 max = 5 }
+	fallen_empire_default = 4
+	colonizable_planet_odds = 1.0
+	num_hyperlanes = { min = 1 max = 5 }
+	num_hyperlanes_default = 3
+	random_hyperlanes = yes
+
+	#Systems
+	system = { id = "0" position = { x = 237 y = -365 }}
+	system = { id = "1" position = { x = 211 y = -368 }}
+	system = { id = "2" position = { x = 185 y = -365 }}
+	system = { id = "3" position = { x = 155 y = -367 }}
+	system = { id = "4" position = { x = 185 y = -328 }}
+	system = { id = "5" position = { x = 187 y = -297 }}
+	system = { id = "6" position = { x = 188 y = -273 }}
+	system = { id = "7" position = { x = 184 y = -252 }}
+	system = { id = "8" position = { x = 101 y = -363 }}
+	system = { id = "9" position = { x = 101 y = -344 }}
+	system = { id = "10" position = { x = 100 y = -311 }}
+	system = { id = "11" position = { x = 100 y = -288 }}
+	system = { id = "12" position = { x = 100 y = -257 }}
+	system = { id = "13" position = { x = 74 y = -248 }}
+	system = { id = "14" position = { x = 35 y = -248 }}
+	system = { id = "15" position = { x = 73 y = -313 }}
+	system = { id = "16" position = { x = 50 y = -311 }}
+	system = { id = "17" position = { x = 33 y = -311 }}
+	system = { id = "18" position = { x = 80 y = -373 }}
+	system = { id = "19" position = { x = 44 y = -375 }}
+	system = { id = "20" position = { x = 30 y = -372 }}
+	system = { id = "21" position = { x = -43 y = -329 }}
+	system = { id = "22" position = { x = -26 y = -340 }}
+	system = { id = "23" position = { x = -20 y = -365 }}
+	system = { id = "24" position = { x = -41 y = -385 }}
+	system = { id = "25" position = { x = -74 y = -383 }}
+	system = { id = "26" position = { x = -105 y = -367 }}
+	system = { id = "27" position = { x = -69 y = -328 }}
+	system = { id = "28" position = { x = -102 y = -309 }}
+	system = { id = "29" position = { x = -98 y = -270 }}
+	system = { id = "30" position = { x = -62 y = -259 }}
+	system = { id = "31" position = { x = -19 y = -265 }}
+	system = { id = "32" position = { x = -177 y = -370 }}
+	system = { id = "33" position = { x = -205 y = -367 }}
+	system = { id = "34" position = { x = -243 y = -368 }}
+	system = { id = "35" position = { x = -272 y = -370 }}
+	system = { id = "36" position = { x = -225 y = -351 }}
+	system = { id = "37" position = { x = -227 y = -322 }}
+	system = { id = "38" position = { x = -227 y = -301 }}
+	system = { id = "39" position = { x = -229 y = -278 }}
+	system = { id = "40" position = { x = -229 y = -258 }}
+	system = { id = "41" position = { x = -228 y = -238 }}
+	system = { id = "42" position = { x = 274 y = 181 }}
+	system = { id = "43" position = { x = 296 y = 244 }}
+	system = { id = "44" position = { x = 137 y = 256 }}
+	system = { id = "45" position = { x = 200 y = 229 }}
+	system = { id = "46" position = { x = 194 y = 327 }}
+	system = { id = "47" position = { x = 36 y = 327 }}
+	system = { id = "48" position = { x = 9 y = 244 }}
+	system = { id = "49" position = { x = 72 y = 322 }}
+	system = { id = "50" position = { x = -25 y = 375 }}
+	system = { id = "51" position = { x = -109 y = 300 }}
+	system = { id = "52" position = { x = -158 y = 245 }}
+	system = { id = "53" position = { x = -166 y = 345 }}
+	system = { id = "54" position = { x = -72 y = 282 }}
+	system = { id = "55" position = { x = -147 y = 198 }}
+	system = { id = "56" position = { x = -273 y = 165 }}
+	system = { id = "57" position = { x = -323 y = 172 }}
+	system = { id = "58" position = { x = -234 y = 278 }}
+	system = { id = "59" position = { x = -305 y = 259 }}
+	system = { id = "60" position = { x = -371 y = 148 }}
+	system = { id = "61" position = { x = -320 y = 81 }}
+	system = { id = "62" position = { x = -277 y = 133 }}
+	system = { id = "63" position = { x = -265 y = 241 }}
+	system = { id = "64" position = { x = -286 y = 331 }}
+	system = { id = "65" position = { x = -176 y = 392 }}
+	system = { id = "66" position = { x = -56 y = 428 }}
+	system = { id = "67" position = { x = 90 y = 410 }}
+	system = { id = "68" position = { x = 184 y = 379 }}
+	system = { id = "69" position = { x = 267 y = 328 }}
+	system = { id = "70" position = { x = 339 y = 264 }}
+	system = { id = "71" position = { x = 324 y = 193 }}
+	system = { id = "72" position = { x = 376 y = 124 }}
+
+	#Nebulae
+}
